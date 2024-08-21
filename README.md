@@ -1,17 +1,18 @@
 - 👋 Hi, I’m @SUPAMADAFAKABIGBEE
-- 為什麼灰姑娘的車子不容易刮到
-- .
-- .
-- .
-- .
-- .
-- .
-- .
-- .
-- .
-- .
-- .
-- 因為她的車子是難刮馬車
+- 為什麼模範生容易被綁架？
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+- 因為他們一副好榜（綁）樣
 
 <!---
 SUPAMADAFAKABIGBEE/SUPAMADAFAKABIGBEE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
